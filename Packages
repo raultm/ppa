@@ -1,0 +1,12 @@
+Package: multish
+Version: 1.3.0
+Architecture: all
+Maintainer: Raul Tierno<adminies.castuera1@educarex.es>
+Depends: tmux,sshpass,nmap,ldapscripts,wakeonlan
+Filename: ./multish_1.3.0_all.deb
+Size: 2539120
+MD5sum: 509b938e6322adae065d5ccf32e59f4f
+SHA1: 505417b829a5310f97a119d1313f990109920132
+SHA256: 1b9dc23df7a1b5ada5cdd67c62c39fe50eac595111d76f878f811390d6033766
+Description: multish allows you to connect and act in multiple ssh connection simultaneously
+
