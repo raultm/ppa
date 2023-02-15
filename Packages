@@ -1,4 +1,112 @@
 Package: multish
+Version: 0.1.0
+Architecture: all
+Maintainer: Raul Tierno<adminies.castuera1@educarex.es>
+Depends: tmux,sshpass
+Filename: ./multish_0.1.0_all.deb
+Size: 27224
+MD5sum: 1f88a620748e559f2de5442fdb289955
+SHA1: ff79539d11548e25360b13881f159c79df2439ac
+SHA256: 835ff21c46d632f15e6347b087ff8b34018c13f9540ef4790cf97f4b2e507111
+Description: multish allows you to connect and act in multiple ssh connection simultaneously
+
+Package: multish
+Version: 0.1.1
+Architecture: all
+Maintainer: Raul Tierno<adminies.castuera1@educarex.es>
+Depends: tmux,sshpass
+Filename: ./multish_0.1.1_all.deb
+Size: 136704
+MD5sum: 366b223bf4fa475eb2488a81088c7b32
+SHA1: 6e1f02c9341c48a3b92c1e8047e8a199feda9ac7
+SHA256: a1fe892f44d05e64190141bc5f9fc9427c6b6c57f9e9e49b8a5bf2637a30949e
+Description: multish allows you to connect and act in multiple ssh connection simultaneously
+
+Package: multish
+Version: 0.2.1
+Architecture: all
+Maintainer: Raul Tierno<adminies.castuera1@educarex.es>
+Depends: tmux,sshpass
+Filename: ./multish_0.2.1_all.deb
+Size: 463692
+MD5sum: 5180492a4d20a6ab11c72d1dcd8234b6
+SHA1: 653f962d6c8db832a5b9db2f2324ff4e55a7b3e9
+SHA256: 5a2b2f674840b5b27d95f2dde7c4ba31f167f788fc91dfc0f7db84adaf1ea4be
+Description: multish allows you to connect and act in multiple ssh connection simultaneously
+
+Package: multish
+Version: 0.3.0
+Architecture: all
+Maintainer: Raul Tierno<adminies.castuera1@educarex.es>
+Depends: tmux,sshpass,nmap
+Filename: ./multish_0.3.0_all.deb
+Size: 690820
+MD5sum: 420d96bf4414a88545c47cc246242aa3
+SHA1: 63fc7884cbd79b6ff55303bf94b17ff266030f86
+SHA256: d6a6c40390c2240289f43a1f7d565069aefd8d832ff0cb604a1b5575e88e3b8e
+Description: multish allows you to connect and act in multiple ssh connection simultaneously
+
+Package: multish
+Version: 0.3.1
+Architecture: all
+Maintainer: Raul Tierno<adminies.castuera1@educarex.es>
+Depends: tmux,sshpass,nmap
+Filename: ./multish_0.3.1_all.deb
+Size: 1450372
+MD5sum: 055605e9d4293ae003be44c3509cfa91
+SHA1: 48cf603cb0993675dc4737ba339b75e639c5b78c
+SHA256: 41d3ddf394cde6d664c53b9030e0cc01824b9f317199c1aab1ea85da71ffba23
+Description: multish allows you to connect and act in multiple ssh connection simultaneously
+
+Package: multish
+Version: 1.0.0
+Architecture: all
+Maintainer: Raul Tierno<adminies.castuera1@educarex.es>
+Depends: tmux,sshpass,nmap
+Filename: ./multish_1.0.0_all.deb
+Size: 1956664
+MD5sum: 85c575ba8fda1bd4ab7fb6ce8aabd27e
+SHA1: d939cba957a1da90ae94aa3f033575507ce667a6
+SHA256: e82a67d08458da31f1bd83786c7d2ab935546e52fd11f8800ba3d76d5cb77a5d
+Description: multish allows you to connect and act in multiple ssh connection simultaneously
+
+Package: multish
+Version: 1.0.3
+Architecture: all
+Maintainer: Raul Tierno<adminies.castuera1@educarex.es>
+Depends: tmux,sshpass,nmap,ldapscripts,wakeonlan
+Filename: ./multish_1.0.3_all.deb
+Size: 2575404
+MD5sum: 9dafe73656b666fa060455ec5a787b74
+SHA1: f71613c5e3057a58c25d7818ba0c1d4272f1c82f
+SHA256: f6b072983b383a320d605d7760775cf6d1196fe1e03103d19a6c48255de2e283
+Description: multish allows you to connect and act in multiple ssh connection simultaneously
+
+Package: multish
+Version: 1.2.2
+Architecture: all
+Maintainer: Raul Tierno<adminies.castuera1@educarex.es>
+Depends: tmux,sshpass,nmap,ldapscripts,wakeonlan
+Filename: ./multish_1.2.2_all.deb
+Size: 2584504
+MD5sum: dc44bde88f92cf6d936a3479d05a44fd
+SHA1: f875747efba3215ab587e1d01fc31c0e5cab76fc
+SHA256: 38e99d156d2b1a0d5da7d9a64262280cb09795a762695f3dc66d329f5fa4ed4c
+Description: multish allows you to connect and act in multiple ssh connection simultaneously
+
+Package: multish
+Version: 1.2.4
+Architecture: all
+Maintainer: Raul Tierno<adminies.castuera1@educarex.es>
+Depends: tmux,sshpass,nmap,ldapscripts,wakeonlan
+Filename: ./multish_1.2.4_all.deb
+Size: 2531720
+MD5sum: ee1e1b0234df34ca06ea5b70e87b9127
+SHA1: c8309311a6966e4a287674bd90f1f28847351f0d
+SHA256: 32c4a237c97cc30110c460d86c7b7bd1a21db4749f87a17ea52ff22aa71ec0f3
+Description: multish allows you to connect and act in multiple ssh connection simultaneously
+
+Package: multish
 Version: 1.3.0
 Architecture: all
 Maintainer: Raul Tierno<adminies.castuera1@educarex.es>
